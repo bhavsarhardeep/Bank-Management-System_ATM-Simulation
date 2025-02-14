@@ -27,9 +27,17 @@ A **Java-based ATM simulation** built using **Swing, AWT**, and **SQL (JDBC)** f
 6. Log in using your credentials to access the system.   
 
 ## **Screenshots 📸**  
-(screenshorts/01.png)  
-(screenshots/02.png)  
-(screenshots/03.png)  
+screenshorts/01.png
+screenshorts/02.png
+screenshorts/03.png
+screenshorts/04.png
+screenshorts/05.png
+screenshorts/06.png
+screenshorts/07.png
+screenshorts/08.png
+screenshorts/09.png
+screenshorts/10.png
+screenshorts/11.png
 
 ## **Contributing 🤝**  
 Feel free to submit **pull requests** or **open issues** for improvements!  
