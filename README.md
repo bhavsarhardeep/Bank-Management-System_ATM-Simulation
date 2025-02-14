@@ -20,7 +20,7 @@ A **Java-based ATM simulation** built using **Swing, AWT**, and **SQL (JDBC)** f
    ```bash
    git clone https://github.com/bhavsarhardeep/Bank-Management-System.git
    ```  
-2. Import the project into your **Java IDE (Eclipse/IntelliJ IDEA)**.  
+2. Import the project into your **Java IDE (IntelliJ IDEA)**.  
 3. **Create and set up the MySQL database:**  
    - Open MySQL and run the following commands:
      ```sql
