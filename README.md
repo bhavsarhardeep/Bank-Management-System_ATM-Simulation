@@ -30,14 +30,14 @@ A **Java-based ATM simulation** built using **Swing, AWT**, and **SQL (JDBC)** f
 ![Login Screen](screenshorts/01.png)  
 ![Signup 1](screenshorts/02.png)  
 ![Signup 2](screenshorts/03.png) 
-![Signup 2](screenshorts/04.png) 
-![Signup 2](screenshorts/05.png) 
-![Signup 2](screenshorts/06.png) 
-![Signup 2](screenshorts/07.png) 
-![Signup 2](screenshorts/08.png) 
-![Signup 2](screenshorts/09.png) 
-![Signup 2](screenshorts/10.png) 
-![Signup 2](screenshorts/11.png) 
+![Signup 3](screenshorts/04.png) 
+![ATM Simulator](screenshorts/05.png) 
+![Deposit](screenshorts/06.png) 
+![Withdrawal](screenshorts/07.png) 
+![Change PIN](screenshorts/08.png) 
+![Fast Cash](screenshorts/09.png) 
+![Statement](screenshorts/10.png) 
+![Balance](screenshorts/11.png) 
 
 ## **Contributing 🤝**  
 Feel free to submit **pull requests** or **open issues** for improvements!  
