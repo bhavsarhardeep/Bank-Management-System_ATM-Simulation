@@ -22,7 +22,9 @@ A **Java-based ATM simulation** built using **Swing, AWT**, and **SQL (JDBC)** f
    ```  
 2. Import the project into your **Java IDE (Eclipse/IntelliJ IDEA)**.  
 3. Set up **MySQL database** and configure the **JDBC connection**.  
-4. Run the `MainClass.java` file to launch the ATM simulation.  
+4. Run the `login.java` file to launch the application.  
+5. Navigate to the **Sign Up** section and create a new account.  
+6. Log in using your credentials to access the system.   
 
 ## **Screenshots 📸**   
 
