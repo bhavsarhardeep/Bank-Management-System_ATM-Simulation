@@ -37,10 +37,7 @@ A **Java-based ATM simulation** built using **Swing, AWT**, and **SQL (JDBC)** f
 ![Change PIN](screenshorts/08.png) 
 ![Fast Cash](screenshorts/09.png) 
 ![Statement](screenshorts/10.png) 
-![Balance](screenshorts/11.png) 
-
-## **Contributing 🤝**  
-Feel free to submit **pull requests** or **open issues** for improvements!  
+![Balance](screenshorts/11.png)  
 
 ## **License 📜**  
 This project is licensed under the **MIT License**.  
