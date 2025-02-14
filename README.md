@@ -26,7 +26,10 @@ A **Java-based ATM simulation** built using **Swing, AWT**, and **SQL (JDBC)** f
 5. Navigate to the **Sign Up** section and create a new account.  
 6. Log in using your credentials to access the system.   
 
-## **Screenshots 📸**   
+## **Screenshots 📸**  
+![Login Screen](screenshots/01.png)  
+![Dashboard](screenshots/dashboard.png)  
+![Transaction Page](screenshots/transaction_page.png)  
 
 ## **Contributing 🤝**  
 Feel free to submit **pull requests** or **open issues** for improvements!  
