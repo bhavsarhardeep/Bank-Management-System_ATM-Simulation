@@ -28,19 +28,16 @@ A **Java-based ATM simulation** built using **Swing, AWT**, and **SQL (JDBC)** f
 
 ## **Screenshots 📸**  
 ![Login Screen](screenshorts/01.png)  
-![Dashboard](screenshots/dashboard.png)  
-![Transaction Page](screenshots/transaction_page.png) 
-screenshorts/01.png
-screenshorts/02.png
-screenshorts/03.png
-screenshorts/04.png
-screenshorts/05.png
-screenshorts/06.png
-screenshorts/07.png
-screenshorts/08.png
-screenshorts/09.png
-screenshorts/10.png
-screenshorts/11.png
+![Signup 1](screenshorts/02.png)  
+![Signup 2](screenshorts/03.png) 
+![Signup 2](screenshorts/04.png) 
+![Signup 2](screenshorts/05.png) 
+![Signup 2](screenshorts/06.png) 
+![Signup 2](screenshorts/07.png) 
+![Signup 2](screenshorts/08.png) 
+![Signup 2](screenshorts/09.png) 
+![Signup 2](screenshorts/10.png) 
+![Signup 2](screenshorts/11.png) 
 
 ## **Contributing 🤝**  
 Feel free to submit **pull requests** or **open issues** for improvements!  
