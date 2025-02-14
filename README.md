@@ -24,8 +24,7 @@ A **Java-based ATM simulation** built using **Swing, AWT**, and **SQL (JDBC)** f
 3. Set up **MySQL database** and configure the **JDBC connection**.  
 4. Run the `MainClass.java` file to launch the ATM simulation.  
 
-## **Screenshots 📸**  
-_(You can add screenshots of the application here)_  
+## **Screenshots 📸**   
 
 ## **Contributing 🤝**  
 Feel free to submit **pull requests** or **open issues** for improvements!  
